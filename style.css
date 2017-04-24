@@ -1,0 +1,78 @@
+header, h1 {
+    background-color: khaki;
+    color: blue;    
+    text-align: center;
+    
+}
+
+#summer1 {
+    text-align: center;
+    background-color: khaki;
+    font-size: 50px;
+    font-family: serif;
+    
+}
+
+#summer {
+    text-align: center;
+    font-size: 50px;
+    color: red;
+    cursor: pointer;
+    
+}
+#winter {
+    text-align: center;
+    font-size: 50px;
+    color: blue;
+    cursor: pointer;
+}
+#display {
+    background-color: khaki;
+    text-align: center;
+    font-size: 50px;
+    color: blue;
+}
+#summer2 {
+    display:none;
+    text-align: center;
+    background-color: khaki;
+    font-size: 50px;
+    font-family: serif;
+    
+}
+#plain {
+    color: red;
+    cursor: pointer;
+}
+#printed {
+    color: blue;
+    cursor: pointer;
+}
+#summer3 {
+    display:none;
+    text-align: center;
+    background-color: khaki;
+    font-size: 50px;
+    font-family: serif;
+}
+#summer4 {
+    display:none;
+    text-align: center;
+    background-color: khaki;
+    font-size: 50px;
+    font-family: serif;
+}
+
+#colorRed {
+    color: red;
+    cursor: pointer;
+}
+#colorBlue {
+    color: blue;
+    cursor: pointer;
+}
+#colorGreen {
+    color: green;
+    cursor: pointer;
+}
+
