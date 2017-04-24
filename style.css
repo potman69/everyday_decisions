@@ -2,6 +2,7 @@ header, h1 {
     background-color: khaki;
     color: blue;    
     text-align: center;
+    font-size: 55px;
     
 }
 
@@ -62,6 +63,14 @@ header, h1 {
     font-size: 50px;
     font-family: serif;
 }
+#winter1 {
+    display:none;
+    text-align: center;
+    background-color: khaki;
+    font-size: 50px;
+    font-family: serif;
+}
+
 
 #colorRed {
     color: red;
