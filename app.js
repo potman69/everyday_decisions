@@ -9,7 +9,7 @@ var resultCloths = [];
 document.getElementById('summer1').addEventListener('click', function(event){    
     document.getElementById('summer1').style.display = 'none';
     document.getElementById('summer2').style.display = 'block';
-    if (event.target.textContent === 'Summer'){
+    if (event.target.textContent === 'Summer'){        
         summerWinterCloths.push(event.target.textContent); 
     }else if (event.target.textContent === 'Winter'){        
         summerWinterCloths.push(event.target.textContent);
